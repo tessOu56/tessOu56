@@ -1,25 +1,29 @@
 # Tess Ou
 
-Senior Frontend Engineer — React · TypeScript · product / web platforms.
+Senior Frontend Engineer — React · TypeScript · complex B2B and data products.
 
-I build maintainable UI for B2B and enterprise workflows: typed API boundaries, dual-path UX when automation fails, and checks that stay in CI.
+I build maintainable UI for enterprise workflows: typed API boundaries, testing infrastructure, and CI-backed quality. I also work on **repository guardrails for AI-assisted development** — explicit conventions and automated verification so humans and coding agents can ship reliably.
 
-## Live
+## Start here
+
+| If you want… | Go to |
+|--------------|--------|
+| **Flagship product** | [AI Search Portal live](https://ai-search-portal.vercel.app) · [repo](https://github.com/tessOu56/ai-search-portal) |
+| **Monorepo + OpenAPI** | [NX event demo](https://nx-event-portal.vercel.app/zh-TW/events) · [repo](https://github.com/tessOu56/nx-playground) |
+| **Data platform lab** | [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) |
+| **Design system (npm)** | [@is_tess on npm](https://www.npmjs.com/org/is_tess) — tokens, SDK, components (repo private) |
+
+## Live demos
 
 | Project | URL | What it is |
 |---------|-----|------------|
-| **AI Search Portal** | [ai-search-portal.vercel.app](https://ai-search-portal.vercel.app) | Flagship: trusted AI data discovery — dual-path catalog + HITL access requests. Ask path is **mock**. |
-| **nx event-stack** | [nx-event-portal.vercel.app/zh-TW/events](https://nx-event-portal.vercel.app/zh-TW/events) | Second case: C-end + CMS + shared OpenAPI. **Labelled demo** on Hobby memory mock — hosted Nest is not the public API yet. |
+| **AI Search Portal** | [ai-search-portal.vercel.app](https://ai-search-portal.vercel.app) | Trusted AI data discovery — dual-path catalog + HITL access requests |
+| **nx event-stack** | [nx-event-portal.vercel.app](https://nx-event-portal.vercel.app/zh-TW/events) | C-end + CMS + shared OpenAPI (labelled demo) |
 
-## Repos
+## Selected repos
 
-- [ai-search-portal](https://github.com/tessOu56/ai-search-portal) — Remix, contracts, Playwright, virtualization evidence
-- [nx-playground](https://github.com/tessOu56/nx-playground) — Nx event stack (portal / CMS / Nest / mock)
-- [explore-design-sdk](https://github.com/tessOu56/explore-design-sdk) — `@is_tess/*` tokens and components on npm
-- [metalcraft-platform](https://github.com/tessOu56/metalcraft-platform) — Plinth storefront (design-system shell)
+- [ai-search-portal](https://github.com/tessOu56/ai-search-portal) — Remix, OpenAPI contracts, Playwright, virtualization
+- [nx-playground](https://github.com/tessOu56/nx-playground) — Nx monorepo, event stack, Orval/OpenAPI client
+- [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) — open-data medallion lab (MinIO, Dagster, Parquet)
 
-## Not this profile
-
-Not a full enterprise catalog SaaS. Not a public control-plane for `platform-command`. Company mirrors are not portfolio.
-
-Evidence for a specific role lives in the application pack, not on LinkedIn Featured.
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/tess-ou-engineer/)
