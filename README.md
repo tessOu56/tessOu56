@@ -29,6 +29,6 @@ Labelled sandboxes, not products.
 - [micro_frontends](https://github.com/tessOu56/micro_frontends) — Vite host plus a shared React UI package (not Module Federation)
 - [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) — open-data bronze ingest (MinIO, Dagster, Parquet)
 - Plinth Gallery — metalwork storefront lab. [Plinth Gallery live demo](https://metalcraft-storefront-eta.vercel.app)
-- Design system — [`@is_tess` on npm](https://www.npmjs.com/org/is_tess) (`tokens`, `sdk`, `components`, `canvas`; source private)
+- Design system — [@is_tess on npm](https://www.npmjs.com/org/is_tess) (tokens, sdk, components, canvas; source private)
 
 [LinkedIn](https://www.linkedin.com/in/tess-ou-engineer/)
