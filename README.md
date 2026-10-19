@@ -1,29 +1,34 @@
 # Tess Ou
 
-Senior Frontend Engineer — React · TypeScript · complex B2B and data products.
+Frontend engineer. Data and workflow products: catalogs, access flows, and the design-system layer they share.
 
-I build maintainable UI for enterprise workflows: typed API boundaries, testing infrastructure, and CI-backed quality. I also work on **repository guardrails for AI-assisted development** — explicit conventions and automated verification so humans and coding agents can ship reliably.
+## Products
 
-## Start here
+### AI Search Portal
 
-| If you want… | Go to |
-|--------------|--------|
-| **Flagship product** | [AI Search Portal live](https://ai-search-portal.vercel.app) · [repo](https://github.com/tessOu56/ai-search-portal) |
-| **Monorepo + OpenAPI** | [NX event demo](https://nx-event-portal.vercel.app/zh-TW/events) · [repo](https://github.com/tessOu56/nx-playground) |
-| **Data platform lab** | [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) |
-| **Design system (npm)** | [@is_tess on npm](https://www.npmjs.com/org/is_tess) — tokens, SDK, components (repo private) |
+Trusted AI data discovery — dual-path catalog plus human-in-the-loop access requests.
 
-## Live demos
+[AI Search Portal live demo](https://ai-search-portal.vercel.app) · [AI Search Portal repository](https://github.com/tessOu56/ai-search-portal)
 
-| Project | URL | What it is |
-|---------|-----|------------|
-| **AI Search Portal** | [ai-search-portal.vercel.app](https://ai-search-portal.vercel.app) | Trusted AI data discovery — dual-path catalog + HITL access requests |
-| **nx event-stack** | [nx-event-portal.vercel.app](https://nx-event-portal.vercel.app/zh-TW/events) | C-end + CMS + shared OpenAPI (labelled demo) |
+React Router 7, React 19, OpenAPI contracts, Playwright.
 
-## Selected repos
+### Exhibition discovery
 
-- [ai-search-portal](https://github.com/tessOu56/ai-search-portal) — Remix, OpenAPI contracts, Playwright, virtualization
-- [nx-playground](https://github.com/tessOu56/nx-playground) — Nx monorepo, event stack, Orval/OpenAPI client
-- [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) — open-data medallion lab (MinIO, Dagster, Parquet)
+Taipei and Tokyo exhibition listings in an Nx monorepo. Open a listing, then confirm on the official page or in LINE. Ticket checkout is retired.
 
-**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/tess-ou-engineer/)
+[Exhibition portal live demo](https://nx-event-portal.vercel.app) · [nx-playground repository](https://github.com/tessOu56/nx-playground)
+
+Next.js, React, shared OpenAPI.
+
+## Labs
+
+Labelled sandboxes, not products.
+
+- [vue-motion-sandbox](https://github.com/tessOu56/vue-motion-sandbox) — Vue 3 motion (GSAP, Three.js, Lottie). [Pages demo](https://tessou56.github.io/vue-motion-sandbox/)
+- [angular-dashboard-sandbox](https://github.com/tessOu56/angular-dashboard-sandbox) — Angular 20 ops UI (Signals, RBAC, local mock API)
+- [micro_frontends](https://github.com/tessOu56/micro_frontends) — Vite host plus a shared React UI package (not Module Federation)
+- [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) — open-data bronze ingest (MinIO, Dagster, Parquet)
+- Plinth Gallery — metalwork storefront lab. [Plinth Gallery live demo](https://metalcraft-storefront-eta.vercel.app)
+- Design system — [`@is_tess` on npm](https://www.npmjs.com/org/is_tess) (`tokens`, `sdk`, `components`, `canvas`; source private)
+
+[LinkedIn](https://www.linkedin.com/in/tess-ou-engineer/)
