@@ -27,7 +27,7 @@ Labelled sandboxes, not products.
 - [vue-motion-sandbox](https://github.com/tessOu56/vue-motion-sandbox) — Vue 3 motion (GSAP, Three.js, Lottie). [Pages demo](https://tessou56.github.io/vue-motion-sandbox/)
 - [angular-dashboard-sandbox](https://github.com/tessOu56/angular-dashboard-sandbox) — Angular 20 ops UI (Signals, RBAC, local mock API)
 - [micro_frontends](https://github.com/tessOu56/micro_frontends) — Vite host plus a shared React UI package (not Module Federation)
-- [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) — open-data bronze ingest (MinIO, Dagster, Parquet)
+- [lakehouse-lab](https://github.com/tessOu56/lakehouse-lab) — archived 2026-11-13 (read-only). Open-data bronze ingest (MinIO, Dagster, Parquet)
 - Plinth Gallery — metalwork storefront lab. [Plinth Gallery live demo](https://metalcraft-storefront-eta.vercel.app)
 - Design system — [@is_tess on npm](https://www.npmjs.com/org/is_tess) (tokens, sdk, components, canvas; source private)
 
